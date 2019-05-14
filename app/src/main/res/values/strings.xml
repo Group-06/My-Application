@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Smart Calculator</string>
+    <string name="app_name2">Calculator</string>
+
+    <string name="title_activity_draw_dtb3">DrawDTB3</string>
+    <string name="title_activity_draw_dtb4">DrawDTB4</string>
+    <string name="title_activity_giai_ptb2">GiaiPTB2</string>
+    <string name="title_activity_giai_ptb3">GiaiPTB3</string>
+
+    <!-- + - * / -->
+    <string name="multiply">\u00D7</string>
+    <string name="divide">\u00F7</string>
+    <!-- Action Bar -->
+    <string name="menu_item_ManHinhChinh">Màn hình chính</string>
+    <string name="menu_item_GiaiPhuongTrinh2">Giải phương trình bậc 2</string>
+    <string name="menu_item_GiaiPhuongTrinh3">Giải phương trình bậc 3</string>
+    <string name="menu_item_VeDoThi2">Vẽ đồ thị bậc 2</string>
+    <string name="menu_item_VeDoThi3">Vẽ đồ thị bậc 3</string>
+    <string name="menu_item_VeDoThi4">Vẽ đồ thị bậc 4</string>
+</resources>

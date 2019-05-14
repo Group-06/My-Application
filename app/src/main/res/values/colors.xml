@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorPrimaryDark_DarkTheme">#000000</color>
+
+    <color name="textColor1">#000000</color>
+    <color name="textColor2">#FFFFFF</color>
+
+    <color name="equationTextColor">#FF0000</color>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/man_hinh_chinh"
+        android:title="@string/menu_item_ManHinhChinh"
+        app:showAsAction="never">
+    </item>
+    <item android:id="@+id/giai_phuong_trinh2"
+        android:title="@string/menu_item_GiaiPhuongTrinh2"
+        app:showAsAction="never">
+    </item>
+    <item android:id="@+id/giai_phuong_trinh3"
+        android:title="@string/menu_item_GiaiPhuongTrinh3"
+        app:showAsAction="never">
+    </item>
+    <item android:id="@+id/ve_do_thi_2"
+        android:title="@string/menu_item_VeDoThi2"
+        app:showAsAction="never">
+    </item>
+    <item android:id="@+id/ve_do_thi_3"
+        android:title="@string/menu_item_VeDoThi3"
+        app:showAsAction="never">
+    </item>
+    <item android:id="@+id/ve_do_thi_4"
+        android:title="@string/menu_item_VeDoThi4"
+        app:showAsAction="never">
+    </item>
+</menu>
