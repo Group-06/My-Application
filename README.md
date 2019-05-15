@@ -6,10 +6,8 @@ Thành viên:
 5. Dương Hoàng Sơn
 
 Tool:
-    1.IDE: Android Studio
-    2.Programming Language: Java
-    3.Process Model: Spiral Model
-
-
+1. IDE: Android Studio 
+2. Programming Languague: Java
+3. Process Model: Spiral Model
 
 
