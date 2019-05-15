@@ -5,9 +5,10 @@ Thành viên:
 4. Phạm Đắc Ngọc Nhật
 5. Dương Hoàng Sơn
 
-    IDE: Android Studio
-    Programming Language: Java
-    Process Model: Spiral Model
+Tool:
+    1.IDE: Android Studio
+    2.Programming Language: Java
+    3.Process Model: Spiral Model
 
 
 
