@@ -1,9 +1,9 @@
 Thành viên:
-1. Thiều Minh Thịnh
-2. Nguyễn Quang Huy
-3. Phạm Quốc Huy
-4. Phạm Đắc Ngọc Nhật
-5. Dương Hoàng Sơn
+1. Thiều Minh Thịnh       21%
+2. Nguyễn Quang Huy       19%
+3. Phạm Quốc Huy          19%
+4. Phạm Đắc Ngọc Nhật     19%
+5. Dương Hoàng Sơn        22%
 
 Work:
 1. Program & Algorithm: Dương Hoàng Sơn, Phạm Quốc Huy
